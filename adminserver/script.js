@@ -21,7 +21,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
     if (account) {
         errorMessage.textContent = "Login successful!";
         errorMessage.style.color = "green";
-        // Redirect or do something upon successful login
+        window.location.href = "/adminserver/ERIsMARnomoUsEcATEntUreSamideFILicibeDOgnoteRIcHAl/noiNgStINaTHunkolIdanVigHteKywATEreRmiTYRIalYPticO/sOlTRiSTionvoUguEBaCTreTYpsIBlEMORThEdalKhODEliAnd.html";
     } else {
         errorMessage.textContent = "Invalid username or password.";
         errorMessage.style.color = "red";
